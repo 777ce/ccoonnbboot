@@ -1,11 +1,11 @@
 {
-	"name": "CloneBot",
-	"description": "CloneBot",
-	"repository": "https://github.com/MsGsuite/CloneBot",
-	"keywords": ["Gclone","TG"],
-	"repository": "https://github.com/MsGsuite/CloneBot",
-        "website": "https://t.me/msgsuitechat",
-        "success_url": "https://github.com/MsGsuite/CloneBot/blob/master/README.md",
+	"name": "Ccconnnt",
+	"description": "Ccconnnt",
+	"repository": "https://github.com/777ce/ccoonnbboot",
+	"keywords": ["one","gG"],
+	"repository": "https://github.com/777ce/ccoonnbboot",
+        "website": "https://t.me",
+        "success_url": "https://github.com",
 	"env": {
 		"telegram_token": {
 			"description": "Get from Telegram @Botfather."
